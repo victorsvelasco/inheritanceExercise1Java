@@ -31,6 +31,5 @@ public class Product {
 		return name
 				+ " $ "
 				+ String.format("%.2f", price);
-		
 	}	
 }
